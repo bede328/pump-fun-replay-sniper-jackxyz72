@@ -46,7 +46,7 @@ const TUNED: SniperParams = {
   slAfterTp1Bps: 0,
   tpBps: 3_000,
   slBps: 2_000,
-  trailArmBps: 2_000,
+  trailArmBps: 1_500,
   trailBps: 300,
   maxHold: 45,
   exitOnDevSell: true,
